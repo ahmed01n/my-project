@@ -1,0 +1,2 @@
+# my-project
+git init

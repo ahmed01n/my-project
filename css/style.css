@@ -1,0 +1,32 @@
+
+
+#countdown {
+    color: rgb(83, 75, 242);
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+/*
+#cards {
+
+    display: none;
+}
+*/
+
+.list-group-item{
+
+    background : transparent;
+}
+
+ body {
+      margin: 0% auto;           /* يشيل الفراغ اللي بيبقى فوق */
+      padding: 0% auto;
+      text-align: center;  /* يوسطن المحتوى اللي جوه */
+    }
+
+    img {
+      display: block;      /* يخليها Block عشان margin auto يشتغل */
+      margin: 20px auto;   /* يوسطن الصورة أفقياً ويخلي فيه مسافة بسيطة من فوق */
+      max-width: 100%;        /* العرض */
+      height: auto;        /* يحافظ على تناسب الأبعاد */
+    }
